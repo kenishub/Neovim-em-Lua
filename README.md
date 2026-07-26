@@ -25,13 +25,13 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 ###Verifique se seu dispositivo possui as seguintes dependências:
 
 - **Git**
-***Ubuntu e derivados***
+-***Ubuntu e derivados***
 ```sudo apt install git```
-***fedora e derivados***
+-***fedora e derivados***
 ```sudo dnf install git```
-***Arch e derivados***
+-***Arch e derivados***
 ```sudo pacman -S git```
-***Windows***
+-***Windows***
 ```winget install -e --id Git.Git```
 - **Opcionais**
 > No guia de instalação a seguir, você encontrará dependências que não são
