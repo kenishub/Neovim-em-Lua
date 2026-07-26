@@ -88,9 +88,9 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="#" title="defina o título do link">
-        <img src="https://s2.glbimg.com/FUcw2usZfSTL6yCCGj3L3v3SpJ8=/smart/e.glbimg.com/og/ed/f/original/2019/04/25/zuckerberg_podcast.jpg" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
+        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.freepik.com%2Fvetores-gratis%2Festrela-de-metal-3d-isolada_1308-115283.jpg%3Fsemt%3Dais_hybrid&f=1&nofb=1&ipt=956c627e3722599b37bb248b4ea924c786fe60a732135c8f821cfcb3063b0d09" width="100px;" alt="Foto de uma linda mulher"/><br>
         <sub>
-          <b>Mark Zuckerberg</b>
+          <b>Êmilly Fernandes</b>
         </sub>
       </a>
     </td>
