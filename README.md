@@ -64,7 +64,8 @@ sudo dnf install -y neovim git gcc make unzip curl ripgrep fd-find nodejs npm py
 ```
 Arch e derivados
 ```
-sudo pacman -Syu | sudo pacman -S neovim git base-devel unzip curl ripgrep fd nodejs npm python-pynvim
+sudo pacman -Syu
+sudo pacman -S neovim git base-devel unzip curl ripgrep fd nodejs npm python-pynvim
 ```
 
 Windows:
@@ -78,12 +79,13 @@ winget install Neovim.Neovim Git.Git BurntSushi.ripgrep.MSVC sharkdp.fd OpenJS.N
 ```
 C:/Users/NomeDoUsuario/AppData/Local/nvim/
 ```
-> Em seguida, dê git clone neste repositório
-```git clone https://github.com/kenishub/Neovim-em-Lua.git```
-## ☕ Usando <nome_do_projeto>
 
-Para usar <nome_do_projeto>, siga estas etapas:
+## Clonando o repositório
+- Dê git clone no terminal de seu computador ou CMD no caso do windows, em seguida mova a os arquivos para a pasta correspondente ao seu computador, linux: ```~/.config/nvim/```
+- Windows ```C:/Users/NomeDoUsuario/AppData/Local/nvim/```
 
+```
+git clone https://github.com/kenishub/Neovim-em-Lua.git
 ```
 <exemplo_de_uso>
 ```
