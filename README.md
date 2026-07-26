@@ -63,7 +63,8 @@ Fedora e derivados
 sudo dnf install -y neovim git gcc make unzip curl ripgrep fd-find nodejs npm python3-neovim
 ```
 Arch e derivados
-```sudo pacman -Syu | sudo pacman -S neovim git base-devel unzip curl ripgrep fd nodejs npm python-pynvim
+```
+sudo pacman -Syu | sudo pacman -S neovim git base-devel unzip curl ripgrep fd nodejs npm python-pynvim
 ```
 
 Windows:
