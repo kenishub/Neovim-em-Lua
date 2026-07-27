@@ -80,9 +80,9 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#" title="defina o título do link">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F2.bp.blogspot.com%2F-CdR2_SyQJ9k%2FVN1wKdPh7fI%2FAAAAAAAAHsI%2F0drxUXsQHe8%2Fs1600%2Fzicacamaleoes300.jpg&f=1&nofb=1&ipt=6fa109bf0c5d8d5b7780a068cc6555991d94f690f50592970764a9e61d9c9829" width="100px;" alt="Foto do Kenishub no GitHub"/><br>
         <sub>
-          <b>Iuri Silva</b>
+          <b>Keniel Silva</b>
         </sub>
       </a>
     </td>
@@ -105,10 +105,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   </tr>
 </table>
 
-## 😄 Seja um dos contribuidores
+## Dedicatória
 
-Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
-
-## 📝 Licença
-
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+<h1>Se estiver lendo isso, te amo Êmilly</h1>
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.po66JXoTPHyNMH11wzAKMQHaEU%3Fr%3D0%26pid%3DApi&f=1&ipt=979faf5beafc2ce2f6b8b8a0c3f6a7f27898db6701ecc187e9adfd977f8490cd&ipo=images"object-fit: contain; width= 100%; height= auto; " alt="eu tadinho">
