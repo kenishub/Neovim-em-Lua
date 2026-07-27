@@ -7,8 +7,10 @@
 ## 💻 Pré-requisitos
 
 ###Verifique se seu dispositivo possui as seguintes dependências:
-
+- ***Dependências obrigatórias:***
 - **Git**
+
+ 
 -***Ubuntu e derivados***
 ```
 sudo apt install git
@@ -73,7 +75,8 @@ C:/Users/NomeDoUsuario/AppData/Local/nvim/
 ```
 
 ## Clonando o repositório
-- Dê git clone no terminal de seu computador ou CMD no caso do windows, em seguida mova a os arquivos para a pasta correspondente ao seu computador, linux: ```~/.config/nvim/```
+- Dê git clone no terminal de seu computador ou CMD no caso do windows, em seguida mova a os arquivos para a pasta correspondente ao seu computador:
+- linux: ```~/.config/nvim/```
 - Windows ```C:/Users/NomeDoUsuario/AppData/Local/nvim/```
 
 ```
