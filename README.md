@@ -107,5 +107,5 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
 ## Dedicatória
 
-<h2>Se estiver lendo isso, te amo Êmilly</h2>
+<h2>Se estiver lendo isso, te amo Êmilly, ...minha grande amiga...❤️</h2>
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.KniOrksXAp-BtSq77AtoYwHaD4%3Fr%3D0%26pid%3DApi&f=1&ipt=a4563227898d9180f0fa02ad5867203e681f5743589220c5e40ee7040c14c1c1&ipo=images" style="width: 100%; height: auto; object-fit: contain; alt="eu tadinho">
