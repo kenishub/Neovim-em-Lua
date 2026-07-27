@@ -74,7 +74,7 @@ winget install Neovim.Neovim Git.Git BurntSushi.ripgrep.MSVC sharkdp.fd OpenJS.N
 C:/Users/NomeDoUsuario/AppData/Local/nvim/
 ```
 
-## Clonando o repositório
+## ☕ Clonando o repositório
 - Dê git clone no terminal de seu computador ou CMD no caso do windows, em seguida mova a os arquivos para a pasta correspondente ao seu computador:
 - linux: ```~/.config/nvim/```
 - Windows ```C:/Users/NomeDoUsuario/AppData/Local/nvim/```
