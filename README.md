@@ -10,13 +10,21 @@
 
 - **Git**
 -***Ubuntu e derivados***
-```sudo apt install git```
+```
+sudo apt install git
+```
 -***fedora e derivados***
-```sudo dnf install git```
+```
+sudo dnf install git
+```
 -***Arch e derivados***
-```sudo pacman -S git```
+```
+sudo pacman -S git
+```
 -***Windows***
-```winget install -e --id Git.Git```
+```
+winget install -e --id Git.Git
+```
 - **Opcionais**
 > No guia de instalação a seguir, você encontrará dependências que não são
 > exigidas pelo neovim, mas são necessárias para as minhas configurações, caso
